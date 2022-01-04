@@ -15,7 +15,7 @@ A Python-based RGB salient object detection evaluation toolbox.
     - max/mean/adaptive E-measure
 * 测试代码高度优化
     - 纯python实现, 基于numpy和各种小trick计算各项指标, 速度有保障
-    - 导出特定模型的结果到xlsx文件中（2021年01月04日重新提供支持）
+    - 导出特定模型的结果到xlsx文件中
     - 直接支持从生成的npy文件导出latex表格代码，顺便还可以对前三的方法使用不同颜色进行标记。
     - 导出测试结果到txt文件中
     - 评估所有指定的方法, 根据评估结果绘制PR曲线和F-measure曲线
