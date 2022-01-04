@@ -1,0 +1,57 @@
+{
+  "DUT_OMRON": {
+    "root": "D:\\Projects\\PYSoD_New\\data\\data_label\\DUT-OMRON",
+    "image": {
+      "path": "D:\\Projects\\PYSoD_New\\data\\data_label\\DUT-OMRON\\image",
+      "suffix": ".jpg"
+    },
+    "mask": {
+      "path": "D:\\Projects\\PYSoD_New\\data\\data_label\\DUT-OMRON\\mask",
+      "suffix": ".png"
+    }
+  },
+  "ECSSD": {
+    "root": "D:\\Projects\\PYSoD_New\\data\\data_label\\ECSSD",
+    "image": {
+      "path": "D:\\Projects\\PYSoD_New\\data\\data_label\\ECSSD\\image",
+      "suffix": ".jpg"
+    },
+    "mask": {
+      "path": "D:\\Projects\\PYSoD_New\\data\\data_label\\ECSSD\\mask",
+      "suffix": ".png"
+    }
+  },
+  "HKU_IS": {
+    "root": "D:\\Projects\\PYSoD_New\\data\\data_label\\HKU-IS",
+    "image": {
+      "path": "D:\\Projects\\PYSoD_New\\data\\data_label\\HKU-IS\\image",
+      "suffix": ".png"
+    },
+    "mask": {
+      "path": "D:\\Projects\\PYSoD_New\\data\\data_label\\HKU-IS\\mask",
+      "suffix": ".png"
+    }
+  },
+  "PASCAL_S": {
+    "root": "D:\\Projects\\PYSoD_New\\data\\data_label\\PASCAL-S",
+    "image": {
+      "path": "D:\\Projects\\PYSoD_New\\data\\data_label\\PASCAL-S\\image",
+      "suffix": ".jpg"
+    },
+    "mask": {
+      "path": "D:\\Projects\\PYSoD_New\\data\\data_label\\PASCAL-S\\mask",
+      "suffix": ".png"
+    }
+  },
+  "DUTS_TE": {
+    "root": "D:\\Projects\\PYSoD_New\\data\\data_label\\DUTS/DUTS-TE",
+    "image": {
+      "path": "D:\\Projects\\PYSoD_New\\data\\data_label\\DUTS/DUTS-TE\\image",
+      "suffix": ".jpg"
+    },
+    "mask": {
+      "path": "D:\\Projects\\PYSoD_New\\data\\data_label\\DUTS/DUTS-TE\\mask",
+      "suffix": ".png"
+    }
+  }
+}

@@ -1,0 +1,266 @@
+{
+  "BASNet": {
+    "ECSSD": {
+      "path": "D:\\Projects\\PYSoD_New\\data\\experience_result/BASNet\\ECSSD",
+      "suffix": ".png"
+    },
+    "PASCAL_S": {
+      "path": "D:\\Projects\\PYSoD_New\\data\\experience_result/BASNet\\PASCAL-S",
+      "suffix": ".png"
+    },
+    "DUT_OMRON": {
+      "path": "D:\\Projects\\PYSoD_New\\data\\experience_result/BASNet\\DUT-OMRON",
+      "suffix": ".png"
+    },
+    "HKU_IS": {
+      "path": "D:\\Projects\\PYSoD_New\\data\\experience_result/BASNet\\HKU-IS",
+      "suffix": ".png"
+    },
+    "DUTS_TE": {
+      "path": "D:\\Projects\\PYSoD_New\\data\\experience_result/BASNet\\DUTS-TE",
+      "suffix": ".png"
+    }
+  },
+  "PoolNet": {
+    "ECSSD": {
+      "path": "D:\\Projects\\PYSoD_New\\data\\experience_result/PoolNet\\ECSSD",
+      "suffix": ".png"
+    },
+    "PASCAL_S": {
+      "path": "D:\\Projects\\PYSoD_New\\data\\experience_result/PoolNet\\PASCAL-S",
+      "suffix": ".png"
+    },
+    "DUT_OMRON": {
+      "path": "D:\\Projects\\PYSoD_New\\data\\experience_result/PoolNet\\DUT-OMRON",
+      "suffix": ".png"
+    },
+    "HKU_IS": {
+      "path": "D:\\Projects\\PYSoD_New\\data\\experience_result/PoolNet\\HKU-IS",
+      "suffix": ".png"
+    },
+    "DUTS_TE": {
+      "path": "D:\\Projects\\PYSoD_New\\data\\experience_result/PoolNet\\DUTS-TE",
+      "suffix": ".png"
+    }
+  },
+  "AFNet": {
+    "ECSSD": {
+      "path": "D:\\Projects\\PYSoD_New\\data\\experience_result/AFNet\\ECSSD",
+      "suffix": ".png"
+    },
+    "PASCAL_S": {
+      "path": "D:\\Projects\\PYSoD_New\\data\\experience_result/AFNet\\PASCAL-S",
+      "suffix": ".png"
+    },
+    "DUT_OMRON": {
+      "path": "D:\\Projects\\PYSoD_New\\data\\experience_result/AFNet\\DUT-OMRON",
+      "suffix": ".png"
+    },
+    "HKU_IS": {
+      "path": "D:\\Projects\\PYSoD_New\\data\\experience_result/AFNet\\HKU-IS",
+      "suffix": ".png"
+    },
+    "DUTS_TE": {
+      "path": "D:\\Projects\\PYSoD_New\\data\\experience_result/AFNet\\DUTS-TE",
+      "suffix": ".png"
+    }
+  },
+  "CAGNet": {
+    "ECSSD": {
+      "path": "D:\\Projects\\PYSoD_New\\data\\experience_result/CAGNet\\ECSSD",
+      "suffix": ".png"
+    },
+    "PASCAL_S": {
+      "path": "D:\\Projects\\PYSoD_New\\data\\experience_result/CAGNet\\PASCAL-S",
+      "suffix": ".png"
+    },
+    "DUT_OMRON": {
+      "path": "D:\\Projects\\PYSoD_New\\data\\experience_result/CAGNet\\DUT-OMRON",
+      "suffix": ".png"
+    },
+    "HKU_IS": {
+      "path": "D:\\Projects\\PYSoD_New\\data\\experience_result/CAGNet\\HKU-IS",
+      "suffix": ".png"
+    },
+    "DUTS_TE": {
+      "path": "D:\\Projects\\PYSoD_New\\data\\experience_result/CAGNet\\DUTS-TE",
+      "suffix": ".png"
+    }
+  },
+  "EGNet": {
+    "ECSSD": {
+      "path": "D:\\Projects\\PYSoD_New\\data\\experience_result/EGNet\\ECSSD",
+      "suffix": ".png"
+    },
+    "PASCAL_S": {
+      "path": "D:\\Projects\\PYSoD_New\\data\\experience_result/EGNet\\PASCAL-S",
+      "suffix": ".png"
+    },
+    "DUT_OMRON": {
+      "path": "D:\\Projects\\PYSoD_New\\data\\experience_result/EGNet\\DUT-OMRON",
+      "suffix": ".png"
+    },
+    "HKU_IS": {
+      "path": "D:\\Projects\\PYSoD_New\\data\\experience_result/EGNet\\HKU-IS",
+      "suffix": ".png"
+    },
+    "DUTS_TE": {
+      "path": "D:\\Projects\\PYSoD_New\\data\\experience_result/EGNet\\DUTS-TE",
+      "suffix": ".png"
+    }
+  },
+  "GateNet": {
+    "ECSSD": {
+      "path": "D:\\Projects\\PYSoD_New\\data\\experience_result/GateNet\\ECSSD",
+      "suffix": ".png"
+    },
+    "PASCAL_S": {
+      "path": "D:\\Projects\\PYSoD_New\\data\\experience_result/GateNet\\PASCAL-S",
+      "suffix": ".png"
+    },
+    "DUT_OMRON": {
+      "path": "D:\\Projects\\PYSoD_New\\data\\experience_result/GateNet\\DUT-OMRON",
+      "suffix": ".png"
+    },
+    "HKU_IS": {
+      "path": "D:\\Projects\\PYSoD_New\\data\\experience_result/GateNet\\HKU-IS",
+      "suffix": ".png"
+    },
+    "DUTS_TE": {
+      "path": "D:\\Projects\\PYSoD_New\\data\\experience_result/GateNet\\DUTS-TE",
+      "suffix": ".png"
+    }
+  },
+  "GCPANet": {
+    "ECSSD": {
+      "path": "D:\\Projects\\PYSoD_New\\data\\experience_result/GCPANet\\ECSSD",
+      "suffix": ".png"
+    },
+    "PASCAL_S": {
+      "path": "D:\\Projects\\PYSoD_New\\data\\experience_result/GCPANet\\PASCAL-S",
+      "suffix": ".png"
+    },
+    "DUT_OMRON": {
+      "path": "D:\\Projects\\PYSoD_New\\data\\experience_result/GCPANet\\DUT-OMRON",
+      "suffix": ".png"
+    },
+    "HKU_IS": {
+      "path": "D:\\Projects\\PYSoD_New\\data\\experience_result/GCPANet\\HKU-IS",
+      "suffix": ".png"
+    },
+    "DUTS_TE": {
+      "path": "D:\\Projects\\PYSoD_New\\data\\experience_result/GCPANet\\DUTS-TE",
+      "suffix": ".png"
+    }
+  },
+  "MINet": {
+    "ECSSD": {
+      "path": "D:\\Projects\\PYSoD_New\\data\\experience_result/MINet\\ECSSD",
+      "suffix": ".png"
+    },
+    "PASCAL_S": {
+      "path": "D:\\Projects\\PYSoD_New\\data\\experience_result/MINet\\PASCAL-S",
+      "suffix": ".png"
+    },
+    "DUT_OMRON": {
+      "path": "D:\\Projects\\PYSoD_New\\data\\experience_result/MINet\\DUT-OMRON",
+      "suffix": ".png"
+    },
+    "HKU_IS": {
+      "path": "D:\\Projects\\PYSoD_New\\data\\experience_result/MINet\\HKU-IS",
+      "suffix": ".png"
+    },
+    "DUTS_TE": {
+      "path": "D:\\Projects\\PYSoD_New\\data\\experience_result/MINet\\DUTS-TE",
+      "suffix": ".png"
+    }
+  },
+  "DFINet": {
+    "ECSSD": {
+      "path": "D:\\Projects\\PYSoD_New\\data\\experience_result/DFINet\\ECSSD",
+      "suffix": ".png"
+    },
+    "PASCAL_S": {
+      "path": "D:\\Projects\\PYSoD_New\\data\\experience_result/DFINet\\PASCAL-S",
+      "suffix": ".png"
+    },
+    "DUT_OMRON": {
+      "path": "D:\\Projects\\PYSoD_New\\data\\experience_result/DFINet\\DUT-OMRON",
+      "suffix": ".png"
+    },
+    "HKU_IS": {
+      "path": "D:\\Projects\\PYSoD_New\\data\\experience_result/DFINet\\HKU-IS",
+      "suffix": ".png"
+    },
+    "DUTS_TE": {
+      "path": "D:\\Projects\\PYSoD_New\\data\\experience_result/DFINet\\DUTS-TE",
+      "suffix": ".png"
+    }
+  },
+  "MLMSNet": {
+    "ECSSD": {
+      "path": "D:\\Projects\\PYSoD_New\\data\\experience_result/MLMSNet\\ECSSD",
+      "suffix": ".png"
+    },
+    "PASCAL_S": {
+      "path": "D:\\Projects\\PYSoD_New\\data\\experience_result/MLMSNet\\PASCAL-S",
+      "suffix": ".png"
+    },
+    "DUT_OMRON": {
+      "path": "D:\\Projects\\PYSoD_New\\data\\experience_result/MLMSNet\\DUT-OMRON",
+      "suffix": ".png"
+    },
+    "HKU_IS": {
+      "path": "D:\\Projects\\PYSoD_New\\data\\experience_result/MLMSNet\\HKU-IS",
+      "suffix": ".png"
+    },
+    "DUTS_TE": {
+      "path": "D:\\Projects\\PYSoD_New\\data\\experience_result/MLMSNet\\DUTS-TE",
+      "suffix": ".png"
+    }
+  },
+  "F3Net": {
+    "ECSSD": {
+      "path": "D:\\Projects\\PYSoD_New\\data\\experience_result/F3Net\\ECSSD",
+      "suffix": ".png"
+    },
+    "PASCAL_S": {
+      "path": "D:\\Projects\\PYSoD_New\\data\\experience_result/F3Net\\PASCAL-S",
+      "suffix": ".png"
+    },
+    "DUT_OMRON": {
+      "path": "D:\\Projects\\PYSoD_New\\data\\experience_result/F3Net\\DUT-OMRON",
+      "suffix": ".png"
+    },
+    "HKU_IS": {
+      "path": "D:\\Projects\\PYSoD_New\\data\\experience_result/F3Net\\HKU-IS",
+      "suffix": ".png"
+    },
+    "DUTS_TE": {
+      "path": "D:\\Projects\\PYSoD_New\\data\\experience_result/F3Net\\DUTS-TE",
+      "suffix": ".png"
+    }
+  },
+  "Ours": {
+    "ECSSD": {
+      "path": "D:\\Projects\\PYSoD_New\\data\\experience_result/Ours\\ECSSD",
+      "suffix": ".png"
+    },
+    "PASCAL_S": {
+      "path": "D:\\Projects\\PYSoD_New\\data\\experience_result/Ours\\PASCAL-S",
+      "suffix": ".png"
+    },
+    "DUT_OMRON": {
+      "path": "D:\\Projects\\PYSoD_New\\data\\experience_result/Ours\\DUT-OMRON",
+      "suffix": ".png"
+    },
+    "HKU_IS": {
+      "path": "D:\\Projects\\PYSoD_New\\data\\experience_result/Ours\\HKU-IS",
+      "suffix": ".png"
+    },
+    "DUTS_TE": {
+      "path": "D:\\Projects\\PYSoD_New\\data\\experience_result/Ours\\DUTS-TE",
+      "suffix": ".png"
+    }
+  }
+}
