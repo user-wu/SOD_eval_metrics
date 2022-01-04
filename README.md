@@ -2,15 +2,6 @@
 
 A Python-based RGB salient object detection evaluation toolbox.
 
-## TODO
-
-* [ ] 添加测试脚本
-* [ ] 添加更详细的注释
-* [ ] 优化xlsx导出的代码(? 导出CSV或许更好些? 既可以当做文本文件打开, 亦可使用Excel来进行整理)
-* [x] 多进程和多线程的支持.
-* [X] 剥离USVOS部分的代码, 让本仓库更专注一些, 相关代码已转移到另一个仓库[PyDavis16EvalToolbox](https://github.com/lartpang/PyDavis16EvalToolbox).
-* [X] 提供对输出的结果基于某个指标进行排序的功能的支持(即, 使表格更加直观), 将会在接下来的版本中添加github-page来展示动态页面.
-* [X] 基于Fan的matlab代码, 实现了一份更加快速和准确的指标代码<https://github.com/lartpang/PySODMetrics>, 已经整合到该代码中.
 
 ## 特性
 
@@ -46,60 +37,3 @@ A Python-based RGB salient object detection evaluation toolbox.
 4. 运行`eval_all.py`, 如无异常, 默认会在 <./results> 下生成结果文件, 并将用于绘图的信息保存到`.npy`文件中.
 5. 后续可以使用`plot_results.py`来读取`.npy`文件绘制`PR`曲线和`Fm`曲线.
 
-## 相关文献
-
-```text
-@inproceedings{Fmeasure,
-    title={Frequency-tuned salient region detection},
-    author={Achanta, Radhakrishna and Hemami, Sheila and Estrada, Francisco and S{\"u}sstrunk, Sabine},
-    booktitle=CVPR,
-    number={CONF},
-    pages={1597--1604},
-    year={2009}
-}
-
-@inproceedings{MAE,
-    title={Saliency filters: Contrast based filtering for salient region detection},
-    author={Perazzi, Federico and Kr{\"a}henb{\"u}hl, Philipp and Pritch, Yael and Hornung, Alexander},
-    booktitle=CVPR,
-    pages={733--740},
-    year={2012}
-}
-
-@inproceedings{Smeasure,
-    title={Structure-measure: A new way to eval foreground maps},
-    author={Fan, Deng-Ping and Cheng, Ming-Ming and Liu, Yun and Li, Tao and Borji, Ali},
-    booktitle=ICCV,
-    pages={4548--4557},
-    year={2017}
-}
-
-@inproceedings{Emeasure,
-    title="Enhanced-alignment Measure for Binary Foreground Map Evaluation",
-    author="Deng-Ping {Fan} and Cheng {Gong} and Yang {Cao} and Bo {Ren} and Ming-Ming {Cheng} and Ali {Borji}",
-    booktitle=IJCAI,
-    pages="698--704",
-    year={2018}
-}
-
-@inproceedings{wFmeasure,
-  title={How to eval foreground maps?},
-  author={Margolin, Ran and Zelnik-Manor, Lihi and Tal, Ayellet},
-  booktitle=CVPR,
-  pages={248--255},
-  year={2014}
-}
-```
-
-## Some Tips
-
-**For some methods, their results' names are not consistent with those of original datsets.**
-* You can use the script `rename.py` in folder `tools` to modify the file names of a large number of files. **Please use with care and it is recommended to read the code carefully before use to avoid data corruption.**
-* **Other useful tools**
-  + Linux: `rename`
-  + Windows: `Microsoft PowerToys` <https://github.com/microsoft/PowerToys>
-
-## 编程参考
-
-* Python_Openpyxl: <https://www.cnblogs.com/programmer-tlh/p/10461353.html>
-* Python之re模块: <https://www.cnblogs.com/shenjianping/p/11647473.html>
